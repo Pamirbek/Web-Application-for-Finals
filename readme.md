@@ -1,6 +1,10 @@
 # Student Web Application
 This is project for Finals for Web Technologies<br />
+
+# Feature list:
 <b>HTML, CSS, Bootstrap, Python, Flask</b> were used for this project<br />
+
+# How to run
 First of all you must have the Flask installed on your computer. This projects works on local server, all you have to do is start the app.py file. To do it write the code below in terminal<br /><br />
 ```python app.py```<br /><br />
 Then it must start the local server and write the link that you should copy and past to the browser (For example: <i>http://127.0.0.1:5000/</i>)<br /><br />
