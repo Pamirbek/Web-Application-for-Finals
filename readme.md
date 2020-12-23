@@ -19,4 +19,4 @@ In ID field you can not write letters<br /><br />
 ![no digits](imgs/no%20digits.png)<br /><br />
 And you can add students. Image below shows us already added students and how to add them<br /><br />
 ![no digits](imgs/adding%20a%20student.png)<br /><br />
-The team members are Pamirbek Almazbekov and Aisuluu Arstanbaeva
+
